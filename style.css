@@ -107,6 +107,7 @@ box-shadow:  19px 19px 37px #b8b8b8,
 .food{
     display: flex;
    align-items: start;
+    margin-right:20px;
 }
 .title{
     
