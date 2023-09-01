@@ -13,7 +13,7 @@
     color: rgb(12, 13, 14);
     border-radius: 34px;
 /*     margin:40px; */
-    margin-top:90px;
+    margin-top:70px;
     border-radius: 11px;
 background: linear-gradient(145deg, #cacaca, #f0f0f0);
 box-shadow:  19px 19px 37px #b8b8b8,
@@ -88,7 +88,7 @@ box-shadow:  19px 19px 37px #b8b8b8,
 }
 
 .followers {
-    margin-top: -15px;
+    margin-top:-15px;
 }
 .heading{
     width:1200px;
