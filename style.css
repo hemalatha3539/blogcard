@@ -1,0 +1,153 @@
+.body {
+    padding:20px auto;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.foodcard {
+    width: 350px;
+    height: 430px;
+    background-color: darkorange;
+    margin: 10px auto;
+    border-radius: 12px;
+    color: rgb(12, 13, 14);
+    border-radius: 34px;
+    margin:40px;
+    margin-top:90px;
+    border-radius: 11px;
+background: linear-gradient(145deg, #cacaca, #f0f0f0);
+box-shadow:  19px 19px 37px #b8b8b8,
+             -19px -19px 37px #ffffff;
+}
+
+.image {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.text2 {
+    margin-top: -15px;
+    margin-left: 7px;
+}
+
+.text1 {
+    margin-left: 7px;
+    margin-top: -15px;
+
+}
+
+.text {
+    margin-top: -3px;
+    color: darkblue;
+    margin-left: 5px;
+
+}
+
+.profilesection {
+    width: 340px;
+    padding: 10px auto;
+    /* background-color: blue; */
+    margin-left: 7px;
+}
+
+.profile {
+    width: 330px;
+    margin: 10px auto;
+    height: 60px;
+    /* background-color: aliceblue; */
+    padding-top: 7px;
+    display: flex;
+}
+
+.img {
+    width: 50px;
+    height: 50px;
+    /* background-color: brown; */
+    margin-left: 2px;
+}
+
+.name {
+    width: 100px;
+    height: 40px;
+    /* background-color: blueviolet; */
+    margin-left: 15px;
+
+}
+
+.office {
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+
+}
+
+.id {
+    margin-top: -1px;
+}
+
+.followers {
+    margin-top: -15px;
+}
+.heading{
+    width:1200px;
+    height:70px;
+    background-color: aquamarine;
+   margin-left:50px;
+   text-align: center;
+  padding-top:20px;
+  /* margin-left:100px; */
+  border-radius: 34px;
+  border-radius: 11px;
+  background: linear-gradient(145deg, #cacaca, #f0f0f0);
+  box-shadow:  19px 19px 37px #b8b8b8,
+               -19px -19px 37px #ffffff;
+}
+.food{
+    display: flex;
+   margin-left:-70x;
+   align-items: start;
+}
+.title{
+    
+    /* margin-left:500px; */
+    /* margin-top:20px; */
+    font-weight: bolder;
+    font-size:25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkblue;
+    
+}
+@media screen and (max-width:576px){
+    .heading{
+       width:auto;
+       flex-wrap: wrap;
+    }
+
+    
+}
+@media screen and (max-width:576px){
+    .title{
+       width:auto;
+       flex-wrap: wrap;
+    }
+
+    
+}
+@media screen and (max-width:576px){
+    .food{
+       width:auto;
+       flex-wrap: wrap;
+    }
+
+    
+}
+@media screen and (max-width:576px){
+    .body{
+       width:auto;
+       flex-wrap: wrap;
+    }
+
+    
+}
