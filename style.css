@@ -6,7 +6,7 @@
 
 .foodcard {
     width: 350px;
-    height: 430px;
+    height: 470px;
     background-color: darkorange;
     margin: 10px auto;
     border-radius: 12px;
@@ -106,7 +106,7 @@ box-shadow:  19px 19px 37px #b8b8b8,
 }
 .food{
     display: flex;
-   margin-left:-70x;
+   margin-left:-30x;
    align-items: start;
 }
 .title{
